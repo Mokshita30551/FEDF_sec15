@@ -1,0 +1,7 @@
+git innit
+git config --global user.name "KLU'
+get conig --global user.email "2420030551@klh.edu.in"
+git add hello.txt
+git commit -m "file created"
+git remote add origin https://github.com/Mokshita30551/FEDF_sec15.git-- this is git fedf repositary
+git push -u origin master
